@@ -1,0 +1,27 @@
+== OTP Safety Guide ==
+
+What is an OTP?
+OTP stands for One-Time Password. It is a temporary 4 to 6 digit code sent to your registered mobile number or email to verify your identity during a transaction or login.
+
+When is an OTP sent?
+- When you log into a banking app or website.
+- When you make an online payment.
+- When you change your password or PIN.
+- When you add a new beneficiary for fund transfers.
+
+How to use an OTP safely?
+1. Never share your OTP with anyone — not even bank employees, family, or friends.
+2. Enter the OTP only on the official app or website that requested it.
+3. An OTP expires quickly (usually within 2-5 minutes). If it expires, request a new one.
+4. If you receive an OTP without requesting any transaction — alert your bank immediately.
+
+Common OTP Scams to Watch Out For:
+- Scammer calls pretending to be a bank employee and asks for your OTP.
+- Scammer says they need your OTP to "verify" or "update" your account.
+- Fake SMS links that take you to a fake banking page asking for your OTP.
+RULE: NO legitimate bank or company will EVER ask for your OTP.
+
+What to do if you accidentally share an OTP?
+1. Call your bank's customer care number immediately.
+2. Block your card or account from the banking app if possible.
+3. Change your UPI PIN and banking passwords right away.

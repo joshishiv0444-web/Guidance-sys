@@ -1,0 +1,25 @@
+== Mobile Banking & General Payments FAQ ==
+
+Q: How do I add a bank account to my UPI app?
+A: Open your UPI app, go to "Add Bank Account", select your bank from the list, verify your mobile number, and set a UPI PIN using your debit card details.
+
+Q: What is NEFT, RTGS, and IMPS?
+A: These are different bank transfer methods:
+- NEFT: National Electronic Funds Transfer — works in batches, usually within 2 hours.
+- RTGS: Real-Time Gross Settlement — instant transfer for large amounts (₹2 lakh+).
+- IMPS: Immediate Payment Service — instant transfer, available 24/7, any amount.
+
+Q: I entered the wrong account number. Can I cancel the transfer?
+A: Unfortunately, once a bank transfer is confirmed it usually cannot be reversed automatically. Contact your bank immediately and file a grievance. They will try to recover the funds.
+
+Q: What is a beneficiary?
+A: A beneficiary is the person or account you want to send money to. In online banking you need to add them as a beneficiary before sending large transfers. This takes 30 minutes to 24 hours to activate as a security measure.
+
+Q: What should I do if my transaction failed but money was deducted?
+A: In most cases, failed transactions are automatically reversed within 3-5 business days. If not, raise a dispute through the app or call your bank's customer care.
+
+Q: What is a bank account number vs IFSC code?
+A: Your account number is unique to YOUR account (typically 9-18 digits). The IFSC code identifies your specific BRANCH. Both are needed together to receive a bank transfer.
+
+Q: Is it safe to share my account number and IFSC code?
+A: Yes, it is generally safe to share your account number and IFSC code with people who need to SEND you money. These details alone cannot be used to take money from your account.

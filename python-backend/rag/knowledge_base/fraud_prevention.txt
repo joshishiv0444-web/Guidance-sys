@@ -1,0 +1,28 @@
+== Fraud & Scam Prevention Guide ==
+
+Common Types of Digital Fraud:
+1. Remote Access Scams: Scammer asks you to install apps like AnyDesk or TeamViewer and takes control of your phone.
+2. UPI Collect Request Scams: Scammer sends a UPI collect request pretending to "send" you money — approving it will DEDUCT money from your account.
+3. KYC Update Scams: Fake messages saying your account will be blocked unless you share your Aadhaar, PAN, or OTP.
+4. Lottery or Prize Scams: Messages saying you won a prize and need to pay a small fee to claim it.
+5. Fake Customer Care Numbers: Fraudulent numbers appearing in internet searches posing as bank helplines.
+
+High Risk Warning Signs:
+- Someone is asking you to install a remote-control app.
+- Someone is asking for your OTP, PIN, password, or Aadhaar number.
+- You received a UPI "collect" request from an unknown person.
+- You are being rushed to make a quick payment.
+- A deal sounds too good to be true.
+
+What to do if you suspect fraud?
+1. Stop the transaction immediately — do not proceed.
+2. Disconnect the call or close the app.
+3. Call your bank's official helpline (number on the back of your debit card).
+4. Report the fraud at the National Cyber Crime helpline: 1930 or cybercrime.gov.in.
+5. Block your card or account if money was transferred.
+
+Safe Banking Practices:
+- Only use the official app downloaded from Google Play Store or Apple App Store.
+- Never click links in SMS or WhatsApp to access your bank account.
+- Regularly check your account statements for unknown transactions.
+- Use a strong UPI PIN and change it periodically.

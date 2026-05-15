@@ -1,0 +1,27 @@
+== IFSC Code Help ==
+
+What is an IFSC Code?
+The IFSC code (Indian Financial System Code) is an 11-character alphanumeric code that uniquely identifies a bank branch in India. It is used during online fund transfers such as NEFT, RTGS, and IMPS.
+
+Where can I find my IFSC Code?
+1. Look at your bank passbook - the IFSC code is printed on the first page.
+2. Open your bank's mobile app and go to the Account Details section.
+3. Check your bank cheque book - the IFSC code is printed on every cheque leaf.
+4. Visit your bank's official website and search by branch name or city.
+
+What does the IFSC code look like?
+Example: SBIN0001234
+- First 4 characters: Bank code (e.g., SBIN = State Bank of India)
+- 5th character: Always zero (0)
+- Last 6 characters: Branch code
+
+How to enter the IFSC code?
+1. Tap the IFSC code input field on the payment screen.
+2. Type the 11-character code carefully.
+3. Double-check each character before proceeding.
+4. Tap the Confirm or Next button.
+
+Common mistakes to avoid:
+- Do NOT confuse the letter O with the number 0.
+- Do NOT leave any spaces between characters.
+- The IFSC code is NOT case-sensitive but always enter in UPPERCASE to be safe.

@@ -1,0 +1,24 @@
+# Minimal requirements tuned for small Render instances (512MB).
+# This removes heavy local ML libraries (torch, transformers, sentence-transformers,
+# chromadb) and audio libs. Use this if you will rely on remote LLM/embeddings
+# (Hugging Face remote APIs) and do not run local models or ChromaDB.
+
+fastapi>=0.100.0
+chromadb>=0.5.0
+langchain-text-splitters>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-community>=0.2.0
+langchain>=0.2.0
+uvicorn>=0.23.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+pydantic>=2.0.0
+huggingface_hub>=0.23.0
+langchain-core>=0.2.0
+sentence-transformers>=2.7.0
+
+# Agent runtime dependency required by `agent/core.py`
+langchain-classic>=1.0.0
+
+# Optional: enable gTTS fallback for TTS (lightweight)
+gtts>=2.5.0

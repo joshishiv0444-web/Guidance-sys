@@ -1,0 +1,57 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+
+# Test artifacts
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ChromaDB persistence directory (local vector DB)
+chroma_db/
+
+# Model weights — do NOT commit large model files
+fraud_detection_model/*.safetensors
+*.safetensors
+
+# Local tool/test scripts (keep these local)
+tools/test_*.py
+tools/*test*.py
+tools/eval_*.py
+tools/run_full_tests.py
+tools/demo_*.py
+
+# Misc
+*.sqlite3
+*.db# .gitignore — protect secrets and skip generated files
+.env
+__pycache__/
+*.pyc
+*.pyo
+chroma_db/
+*.mp3
+*.wav
+*.log
+.DS_Store

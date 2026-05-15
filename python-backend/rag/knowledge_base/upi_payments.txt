@@ -1,0 +1,25 @@
+== UPI Payments Guide ==
+
+What is UPI?
+UPI (Unified Payments Interface) is a real-time payment system that allows you to transfer money directly between bank accounts using a mobile app. It is safe, fast, and free for most transfers.
+
+What is a UPI ID?
+A UPI ID (also called a Virtual Payment Address or VPA) looks like: name@bank (e.g., john@upi, 9876543210@paytm). It is a unique address linked to your bank account.
+
+How to make a UPI payment?
+1. Open your UPI-enabled app (PhonePe, Google Pay, Paytm, etc.).
+2. Tap the "Send Money" or "Pay" option.
+3. Enter the recipient's UPI ID in the input field.
+4. Enter the amount you want to send.
+5. Review the details carefully — check the name that appears after entering the UPI ID.
+6. Enter your UPI PIN to authorize the payment.
+7. Tap the Pay button.
+
+Important Safety Rules for UPI:
+- NEVER share your UPI PIN with anyone, including bank employees.
+- If someone asks you to enter your PIN to RECEIVE money — that is a SCAM. Stop immediately.
+- Always verify the payee's name that appears on screen before confirming.
+- You do NOT need a PIN to receive money — only to send money.
+
+What is a UPI PIN?
+Your UPI PIN is a 4 or 6 digit secret number you set when you register your bank account on a UPI app. Keep it private at all times.
